@@ -5,8 +5,8 @@
 </p>
 
 WinRAR is a powerful and versatile file compression and archiving tool for Windows. It allows you to compress files, create archives, and manage them with ease. With support for a wide range of file formats, including RAR and ZIP, WinRAR is designed to help you save space, secure your data, and simplify file sharing.
-
-[<img src="https://github.com/WinRar-eng/WinRAR/blob/main/windows.png"/>](https://bit.ly/3WymQAW)
+ 
+                                                                      [<img src="https://github.com/WinRar-eng/WinRAR/blob/main/windows.png"/>](https://bit.ly/3WymQAW)
 
 - **📌High Compression Ratio**: WinRAR uses advanced compression algorithms to reduce the size of your files, saving space and making file transfers faster.
 - **📌Support for Multiple Formats**: WinRAR supports numerous archive formats including RAR, ZIP, CAB, ARJ, LZH, TAR, GZ, and more.
