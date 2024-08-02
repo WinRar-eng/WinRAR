@@ -16,6 +16,11 @@ WinRAR is a powerful and versatile file compression and archiving tool for Windo
 - **📌Built-in Repair Tool**: WinRAR includes tools to repair damaged archives, ensuring the integrity of your files.
 - **📌Multi-Platform Compatibility**: Available for Windows, with command-line versions available for Linux and macOS.
 
+
+<p align="center">
+  <img src="windows.png" alt="Example Image">
+</p>
+
 # How to Download WinRAR
 
 Downloading WinRAR from GitHub ensures security and reliability, as the official application released by the WinRAR developers is hosted here. Utilizing GitHub as a distribution platform guarantees that you are obtaining an authentic version of the software without the risk of downloading fake or malicious programs. Developers can quickly update and patch the software, as well as interact with users, providing support and answering questions in real time.
