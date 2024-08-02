@@ -2,10 +2,9 @@
 
 <p align="center">
   <img src="rar.jpg
-</p>
     
 ![Example Image](rar.jpg)
-
+</p>
 
 WinRAR is a powerful and versatile file compression and archiving tool for Windows. It allows you to compress files, create archives, and manage them with ease. With support for a wide range of file formats, including RAR and ZIP, WinRAR is designed to help you save space, secure your data, and simplify file sharing.
 
